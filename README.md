@@ -8,8 +8,6 @@
     <strong>An effort to allow organizations to focus on product scenarios rather than writing undifferentiated code with the help of Spec-Driven Development.</strong>
 </p>
 
-# spec-kit-mcp
-
 **spec-kit-mcp** is an independent evolution of [github/spec-kit](https://github.com/github/spec-kit), stewarding the Spec‑Driven Development vision into new frontiers through the **Model Context Protocol** ecosystem.
 
 ## ✨ Vision
