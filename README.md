@@ -8,7 +8,33 @@
     <strong>An effort to allow organizations to focus on product scenarios rather than writing undifferentiated code with the help of Spec-Driven Development.</strong>
 </p>
 
-[![Release](https://github.com/github/spec-kit/actions/workflows/release.yml/badge.svg)](https://github.com/github/spec-kit/actions/workflows/release.yml)
+# spec-kit-mcp
+
+**spec-kit-mcp** is an independent evolution of [github/spec-kit](https://github.com/github/spec-kit), stewarding the Spec‑Driven Development vision into new frontiers through the **Model Context Protocol** ecosystem.
+
+## ✨ Vision
+
+Spec‑Driven Development empowers teams to build high‑quality software faster by focusing on product scenarios rather than undifferentiated code.  
+`spec-kit-mcp` extends this philosophy into a protocol‑first architecture — making specifications, plans, tasks, and agents accessible as persistent, interoperable services across tools, pipelines, and platforms.
+
+## 📜 Relationship to Upstream
+
+While this fork explores a new MCP‑driven architecture, it remains aligned with the upstream project’s foundational workflow.  
+We actively keep the core templates (`spec`, `plan`, `tasks`, `agent`) in sync with [github/spec-kit](https://github.com/github/spec-kit) to preserve compatibility and shared best practices.
+
+We acknowledge the upstream maintainers’ ongoing contribution to the community — their work is the foundation that makes this exploration possible.
+
+## 🚀 Why MCP?
+
+- **Protocol‑First Integration** — connect seamlessly with any MCP‑aware client or automation.
+- **Always‑On Services** — specifications and workflows available beyond the CLI.
+- **Composable Workflows** — chain spec operations with other MCP services for richer pipelines.
+
+## 📬 Contributing
+
+Contributions, ideas, and feedback are welcome — especially from those interested in protocol design, developer tooling, and distributed workflows.
+
+---
 
 ---
 
