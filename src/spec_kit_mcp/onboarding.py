@@ -1170,7 +1170,7 @@ def _categorize_feature_file(file_path: Path, project_root: Path, feature_root: 
     if file_name == 'package.json':
         analysis["frameworks_detected"].add("Node.js")
         analysis["dependencies"].add("npm/yarn")
-    elif file_name == 'requirements.txt':
+    elif file_name == 'pyproject.toml':
         analysis["dependencies"].add("pip")
     elif file_name.startswith('dockerfile'):
         analysis["frameworks_detected"].add("Docker")
