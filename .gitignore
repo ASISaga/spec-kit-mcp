@@ -1,5 +1,5 @@
 # Ignore Python egg-info metadata
-.egg-info/
+*.egg-info/
 # Python
 __pycache__/
 *.py[cod]
